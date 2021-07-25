@@ -219,7 +219,7 @@ var CountryNames = map[string]string{
 	"se": "Sweden",
 	"ch": "Switzerland",
 	"sy": "Syria",
-	"tw": "Taiwan",
+	"tw": "Taiwan, China",
 	"tj": "Tajikistan",
 	"tz": "Tanzania",
 	"th": "Thailand",
